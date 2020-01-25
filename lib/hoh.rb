@@ -49,9 +49,9 @@ classification = {
        label: "Class"
        sub_category: {
         label: "Order"
- }
+        }
+      }
     }
   }
-}
 classification
 end
